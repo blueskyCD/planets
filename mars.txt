@@ -1,3 +1,6 @@
 hi caroline!
 
-hello
+*.dat
+secret_file 
+
+change 333
